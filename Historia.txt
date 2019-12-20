@@ -1,3 +1,3 @@
 Estas son la primeras pruebas que hago en git
 
-El comienzo no resulto tan facil, pero ya me estoy acostumbrando
+El comienzo resulto facil, pero ya se esta poniendo mas desafiante
