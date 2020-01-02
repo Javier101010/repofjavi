@@ -3,3 +3,7 @@ Estas son la primeras pruebas que hago en git
 El comienzo resulto facil, pero ya se esta poniendo mas desafiante
 
 Son los primeros pasos para git
+
+lineas para probar los ultimos comandos que se 
+
+han aprendido.
