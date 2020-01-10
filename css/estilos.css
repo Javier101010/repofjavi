@@ -15,13 +15,14 @@ body{
     margin: 0px auto;
     width: 600px;
     height: 80px;
-    background: rgb(35, 35, 243);
+    background: rgb(184, 35, 243);
 }
 
 #cabe>h1{
     float: left;
     margin-left: 150px;
     color: white;
+    font-style: italic;
 }
 
 #cabe>h3{
