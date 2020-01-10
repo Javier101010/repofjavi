@@ -17,3 +17,23 @@ p{
     margin: 0px 15px;
 }
 
+#cabe{
+    margin: 0px auto;
+    width: 600px;
+    height: 80px;
+    background: rgb(35, 35, 243);
+}
+
+#cabe>h1{
+    float: left;
+    margin-left: 150px;
+    color: white;
+}
+
+#cabe>h3{
+    float: left;
+    margin-left: 50px;
+    margin-top: 25px;
+    color: white;
+}
+
