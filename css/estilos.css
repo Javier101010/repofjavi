@@ -24,9 +24,17 @@ p{
     background: rgb(184, 35, 243);
 }
 
+img{
+    margin-top: 15px;
+    margin-left: 30px;
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+
 #cabe>h1{
     float: left;
-    margin-left: 150px;
+    margin-left: 50px;
     color: white;
     font-style: italic;
 }
